@@ -9,19 +9,20 @@
                Głóna strona, która zawiera podstrony 
           </header>
           <nav>
-               <a href="Na informatyke podstrona nr 1">Podstrona nr 1</a><br />
-	       <a href="Na informatyke podstrona nr 2">Podstrona nr 2</a><br />
-	       <a href="Na informatyke podstrona nr 3">Podstrona nr 3</a><br />
-	       <a href="Na informatyke podstrona nr 4">Podstrona nr 4</a><br />
-	       <a href="Na informatyke podstrona nr 5>Podstrona nr 5</a><br />
-	       <a href="Na informatyke podstrona nr 6>Podstrona nr 6</a><br />
-	       <a href="Na informatyke podstrona nr 7>Podstrona nr 7</a><br />
-	       <a href="Na informatyke podstrona nr 8>Podstrona nr 8</a><br />
+               <a href="Na informatyke podstrona nr 1"><img src="82244343_892096887938446_1103663697215094784_n(1)" alt=1">Podstrona nr 1</a><br />
+	       <a href="Na informatyke podstrona nr 2"><img src="91439394_267330607763244_5395920005562892288_n" alt="2">Podstrona nr 2</a><br />
+	       <a href="Na informatyke podstrona nr 3">img src="72820086_2321692954625165_3387148708708614144_n" alt="3">Podstrona nr 3</a><br />
+	       <a href="Na informatyke podstrona nr 4">img src="89737882_1435126446665682_8062429861211275264_n" alt="4">"Podstrona nr 4</a><br />
+	       <a href="Na informatyke podstrona nr 5>img src="93380680_215248773225614_1055045084036202496_n" alt="5">Podstrona nr 5</a><br />
+	       <a href="Na informatyke podstrona nr 6>img src="101534738_197484998054031_150921010432966656_n" alt="6">Podstrona nr 6</a><br />
+	       <a href="Na informatyke podstrona nr 7>img src="83715694_210487446779977_1415212442954235904_n" alt="7">Podstrona nr 7</a><br />
+	       <a href="Na informatyke podstrona nr 8>img src="101393862_620234711910875_959735894267396096_n" alt="8">Podstrona nr 8</a><br />
           </nav>
           <section>
                <article>
-                    głóna strona jak mam byćszczery to nie wiem jak zrobić link pod zdjęciem (że kiedy w niego klikniemy to
-		     przeniesie nas do innej strony)
+	       	<p>
+                    Głóna strona 
+		</p>
                </article>
           </section>
           <aside>
